@@ -1,0 +1,151 @@
+Property_ID,Property_Name,City,Locality,Room_Type,Monthly_Rent,Deposit,Rating,Distance_to_CBD_km,Amenities,Total_Beds
+P001,Stanza Residence 001,Pune,Hinjewadi,Single,13157,19735,4.02,5.1,Gym|Housekeeping|Study Area|Meals,334
+P002,Stanza Residence 002,Gurgaon,Sector 44,Double,25943,25943,4.14,3.2,AC|Laundry|Study Area|Meals|Housekeeping|WiFi|Security,394
+P003,Stanza Residence 003,Gurgaon,Cyber City,Triple,12507,18760,4.14,2.8,AC|Gym|Laundry|Study Area|Housekeeping,203
+P004,Stanza Residence 004,Bangalore,Indiranagar,Single,23498,35247,4.39,5.5,Study Area|Laundry|Housekeeping|Meals|AC|Security|Gym,148
+P005,Stanza Residence 005,Gurgaon,Sector 44,Single,19668,29502,3.4,12.1,Meals|AC|Study Area|Security|Laundry,419
+P006,Stanza Residence 006,Bangalore,Koramangala,Double,12546,6273,4.1,4.0,Study Area|Meals|WiFi|Gym|Security,359
+P007,Stanza Residence 007,Bangalore,Electronic City,Triple,19689,19689,4.12,13.4,Laundry|Meals|WiFi|Security|AC|Housekeeping,311
+P008,Stanza Residence 008,Hyderabad,Gachibowli,Double,17274,17274,4.12,16.0,Gym|WiFi|AC|Meals|Study Area|Security,368
+P009,Stanza Residence 009,Hyderabad,Kukatpally,Triple,12702,19053,3.89,10.4,Meals|Gym|Housekeeping|Laundry|Study Area,384
+P010,Stanza Residence 010,Bangalore,Indiranagar,Single,17539,8769,4.21,1.6,Gym|WiFi|Study Area|Laundry,156
+P011,Stanza Residence 011,Bangalore,HSR Layout,Single,15510,15510,4.18,3.1,Housekeeping|Gym|Study Area|Security|WiFi|Laundry|Meals,151
+P012,Stanza Residence 012,Bangalore,HSR Layout,Single,16073,16073,3.89,4.5,Gym|Study Area|WiFi|Security|Housekeeping|Meals|Laundry,167
+P013,Stanza Residence 013,Chennai,OMR,Double,12222,6111,3.4,5.9,Meals|Gym|Housekeeping|Security|Study Area|WiFi|Laundry,271
+P014,Stanza Residence 014,Gurgaon,Sohna Road,Single,26554,26554,4.8,9.8,WiFi|Meals|Security|AC|Housekeeping,154
+P015,Stanza Residence 015,Pune,Wakad,Single,13533,6766,3.7,10.1,Gym|Housekeeping|Study Area|Laundry|AC|Security,322
+P016,Stanza Residence 016,Gurgaon,Sohna Road,Double,20341,10170,4.33,9.8,Housekeeping|WiFi|AC|Laundry|Meals,200
+P017,Stanza Residence 017,Bangalore,Marathahalli,Double,18613,9306,4.27,3.4,Laundry|Security|Study Area|Meals,227
+P018,Stanza Residence 018,Hyderabad,Gachibowli,Single,17004,25506,4.03,8.5,WiFi|Security|Laundry|AC|Housekeeping|Study Area,346
+P019,Stanza Residence 019,Pune,Kharadi,Single,10732,16098,3.75,2.2,WiFi|Laundry|AC|Housekeeping|Security|Meals,406
+P020,Stanza Residence 020,Delhi NCR,Noida Sector 62,Single,12900,6450,3.98,13.7,Study Area|Security|Housekeeping|AC|Laundry|WiFi,175
+P021,Stanza Residence 021,Bangalore,HSR Layout,Single,15644,7822,4.33,6.9,Meals|Laundry|Housekeeping|Security,324
+P022,Stanza Residence 022,Pune,Hinjewadi,Double,9811,14716,4.13,8.7,Study Area|Meals|Security|WiFi|Gym|Laundry,217
+P023,Stanza Residence 023,Gurgaon,Sector 52,Double,12884,12884,3.73,3.6,Meals|Housekeeping|Gym|Laundry|Study Area|Security,271
+P024,Stanza Residence 024,Pune,Wakad,Single,12351,6175,3.74,6.5,Study Area|Security|Meals|Housekeeping|Laundry,358
+P025,Stanza Residence 025,Bangalore,Marathahalli,Double,16893,25339,3.77,13.9,Gym|Study Area|AC|Housekeeping|WiFi|Security,245
+P026,Stanza Residence 026,Chennai,T Nagar,Double,9214,9214,4.66,8.1,WiFi|Study Area|Security|Gym|AC,210
+P027,Stanza Residence 027,Hyderabad,Kondapur,Double,11309,16963,3.66,6.7,Study Area|Security|Meals|Gym|AC|Laundry|Housekeeping,350
+P028,Stanza Residence 028,Gurgaon,Golf Course Road,Single,24947,24947,4.01,2.8,Gym|Laundry|Study Area|Housekeeping|WiFi|Security,197
+P029,Stanza Residence 029,Gurgaon,DLF Phase 3,Double,23462,23462,4.71,7.9,Study Area|Gym|WiFi|Laundry,272
+P030,Stanza Residence 030,Hyderabad,Madhapur,Triple,14985,14985,4.35,9.5,Housekeeping|Security|Study Area|Gym|AC|Meals|WiFi,393
+P031,Stanza Residence 031,Gurgaon,Sector 44,Single,23746,23746,4.21,6.9,Housekeeping|Laundry|Gym|Study Area|Security|AC|WiFi,360
+P032,Stanza Residence 032,Gurgaon,Cyber City,Double,18325,27487,4.35,4.0,Security|Housekeeping|WiFi|Meals|AC,358
+P033,Stanza Residence 033,Pune,Wakad,Double,17728,8864,4.51,16.5,Study Area|Housekeeping|AC|WiFi|Security|Meals|Gym,181
+P034,Stanza Residence 034,Hyderabad,Kukatpally,Double,14377,21565,3.9,7.1,Security|WiFi|Gym|Laundry|Housekeeping|Meals|Study Area,342
+P035,Stanza Residence 035,Gurgaon,Sector 52,Double,22765,34147,4.02,15.2,Meals|Gym|AC|Study Area,411
+P036,Stanza Residence 036,Pune,Kharadi,Single,14825,14825,4.78,7.1,WiFi|Meals|AC|Security|Housekeeping|Laundry,328
+P037,Stanza Residence 037,Bangalore,HSR Layout,Double,17698,17698,3.99,11.1,Housekeeping|Gym|Security|Meals|Laundry|AC|Study Area,258
+P038,Stanza Residence 038,Gurgaon,Sector 44,Single,26317,13158,3.82,13.7,Meals|WiFi|AC|Laundry|Housekeeping|Gym,211
+P039,Stanza Residence 039,Gurgaon,Sector 44,Double,13645,20467,4.38,15.9,Security|Gym|Study Area|Laundry|AC|WiFi,249
+P040,Stanza Residence 040,Chennai,Guindy,Single,9878,4939,3.8,14.9,AC|Security|WiFi|Meals|Gym|Laundry,235
+P041,Stanza Residence 041,Hyderabad,Kukatpally,Single,16025,24037,4.58,11.8,AC|Security|Study Area|Housekeeping|WiFi|Gym,121
+P042,Stanza Residence 042,Bangalore,Whitefield,Double,13832,6916,4.45,12.8,Gym|Security|WiFi|Meals|AC|Laundry,196
+P043,Stanza Residence 043,Delhi NCR,Noida Sector 62,Double,17350,17350,3.9,17.1,Security|WiFi|Meals|Study Area|Gym|Laundry|AC,248
+P044,Stanza Residence 044,Gurgaon,Sohna Road,Single,25547,12773,3.6,14.1,Security|Meals|Housekeeping|Gym|Laundry,212
+P045,Stanza Residence 045,Chennai,Velachery,Single,15690,15690,3.77,6.9,Meals|Housekeeping|Gym|Security|WiFi|AC|Study Area,281
+P046,Stanza Residence 046,Gurgaon,DLF Phase 3,Single,27157,27157,3.49,2.4,Security|Housekeeping|Gym|WiFi|AC|Study Area,401
+P047,Stanza Residence 047,Gurgaon,Sector 52,Single,25940,12970,4.08,8.2,AC|Gym|WiFi|Security|Study Area,269
+P048,Stanza Residence 048,Bangalore,Whitefield,Single,19736,9868,4.15,16.7,AC|Laundry|Gym|Study Area|Meals,121
+P049,Stanza Residence 049,Gurgaon,DLF Phase 3,Single,24116,24116,3.81,7.7,Gym|Housekeeping|AC|Meals|Security|WiFi,330
+P050,Stanza Residence 050,Gurgaon,Sohna Road,Double,24296,36444,4.62,7.0,Security|WiFi|Meals|Gym,127
+P051,Stanza Residence 051,Hyderabad,Kukatpally,Single,16692,25038,3.99,6.9,Housekeeping|Security|Study Area|Gym|WiFi|Laundry|Meals,240
+P052,Stanza Residence 052,Pune,Viman Nagar,Triple,11793,17689,4.19,6.4,WiFi|Laundry|Security|Study Area,303
+P053,Stanza Residence 053,Bangalore,Koramangala,Single,18751,28126,4.44,5.5,Gym|Security|Housekeeping|Laundry|Study Area,250
+P054,Stanza Residence 054,Pune,Wakad,Triple,14040,14040,3.75,12.0,Meals|Gym|Laundry|AC|Study Area|Security|WiFi,241
+P055,Stanza Residence 055,Bangalore,Electronic City,Single,23456,11728,3.61,13.8,Security|Study Area|Laundry|AC,300
+P056,Stanza Residence 056,Gurgaon,Golf Course Road,Single,18606,18606,3.89,2.1,Laundry|WiFi|Security|Housekeeping|Gym|Study Area,222
+P057,Stanza Residence 057,Gurgaon,DLF Phase 3,Double,17123,17123,4.09,3.4,Laundry|Study Area|AC|Gym,405
+P058,Stanza Residence 058,Bangalore,Marathahalli,Double,13455,20182,3.78,5.8,Housekeeping|WiFi|Security|AC|Gym|Study Area|Meals,233
+P059,Stanza Residence 059,Pune,Hinjewadi,Double,12859,12859,4.27,5.4,Study Area|Gym|Laundry|Meals|Security,420
+P060,Stanza Residence 060,Hyderabad,Madhapur,Single,17017,8508,4.1,12.9,Security|Gym|AC|Laundry|WiFi,308
+P061,Stanza Residence 061,Pune,Hinjewadi,Triple,11161,16741,4.22,17.5,Housekeeping|AC|Study Area|Meals,225
+P062,Stanza Residence 062,Gurgaon,Sohna Road,Double,14779,7389,4.59,6.1,Laundry|Meals|Security|AC|WiFi,133
+P063,Stanza Residence 063,Gurgaon,Golf Course Road,Single,27417,13708,4.36,3.4,Security|Gym|Laundry|Meals,175
+P064,Stanza Residence 064,Bangalore,Koramangala,Single,12710,12710,4.36,15.5,AC|Gym|Housekeeping|Study Area|WiFi|Meals|Security,195
+P065,Stanza Residence 065,Gurgaon,Golf Course Road,Single,24872,24872,3.73,14.6,Gym|Security|Study Area|AC,331
+P066,Stanza Residence 066,Bangalore,Marathahalli,Single,23953,23953,4.09,7.7,Security|WiFi|Study Area|Housekeeping|Meals,341
+P067,Stanza Residence 067,Gurgaon,Cyber City,Double,24928,24928,3.79,13.9,Meals|Security|Laundry|Housekeeping,173
+P068,Stanza Residence 068,Pune,Hinjewadi,Single,13174,13174,4.51,11.0,WiFi|Meals|Housekeeping|Laundry|Security|Gym|AC,278
+P069,Stanza Residence 069,Chennai,OMR,Single,11324,5662,4.09,8.4,Laundry|Security|Study Area|Housekeeping|WiFi|Gym,199
+P070,Stanza Residence 070,Gurgaon,Sohna Road,Double,23048,23048,3.86,8.3,AC|Laundry|Gym|WiFi|Study Area,369
+P071,Stanza Residence 071,Bangalore,Electronic City,Single,18475,9237,4.16,6.3,WiFi|Gym|Housekeeping|Study Area,209
+P072,Stanza Residence 072,Gurgaon,Sector 52,Double,15006,7503,3.51,8.7,AC|Study Area|Laundry|Meals|Gym|Housekeeping|Security,333
+P073,Stanza Residence 073,Gurgaon,Cyber City,Single,19821,19821,4.25,11.2,Study Area|Security|Laundry|Housekeeping,233
+P074,Stanza Residence 074,Bangalore,Electronic City,Single,22374,22374,3.88,13.5,Gym|WiFi|AC|Laundry|Housekeeping,208
+P075,Stanza Residence 075,Pune,Wakad,Double,9508,14262,3.78,15.8,Laundry|Gym|WiFi|Study Area|Meals|Security,275
+P076,Stanza Residence 076,Hyderabad,Gachibowli,Double,12508,12508,3.73,15.2,AC|Meals|Study Area|Housekeeping,316
+P077,Stanza Residence 077,Bangalore,Indiranagar,Double,10514,10514,3.4,8.9,AC|Meals|Housekeeping|Security|WiFi|Gym,344
+P078,Stanza Residence 078,Chennai,Velachery,Double,13010,19515,4.09,11.4,AC|Laundry|WiFi|Meals|Gym|Security,249
+P079,Stanza Residence 079,Hyderabad,Madhapur,Double,7000,6958,4.63,8.0,Meals|Security|Gym|Laundry,185
+P080,Stanza Residence 080,Pune,Kharadi,Double,15583,7791,3.99,7.5,Gym|Laundry|Security|AC|Meals,190
+P081,Stanza Residence 081,Gurgaon,Sector 52,Single,27412,27412,4.45,11.4,Laundry|AC|Housekeeping|Meals|Study Area,344
+P082,Stanza Residence 082,Gurgaon,Sohna Road,Single,26289,13144,3.76,6.6,Gym|Laundry|Housekeeping|Meals|Security|AC|Study Area,315
+P083,Stanza Residence 083,Bangalore,Marathahalli,Single,15271,15271,4.41,3.2,Meals|WiFi|AC|Laundry,350
+P084,Stanza Residence 084,Delhi NCR,Greater Noida,Single,15727,7863,3.78,8.0,Gym|Security|WiFi|Laundry|AC|Housekeeping,283
+P085,Stanza Residence 085,Chennai,T Nagar,Double,10322,15483,4.39,9.2,AC|WiFi|Laundry|Security,196
+P086,Stanza Residence 086,Pune,Hinjewadi,Double,9572,4786,3.58,8.4,AC|WiFi|Gym|Meals|Study Area|Laundry|Housekeeping,193
+P087,Stanza Residence 087,Gurgaon,Sohna Road,Single,20280,20280,4.49,9.9,Study Area|Security|Gym|WiFi,318
+P088,Stanza Residence 088,Chennai,Sholinganallur,Single,10698,16047,4.28,14.0,WiFi|Laundry|Meals|Study Area|AC,357
+P089,Stanza Residence 089,Chennai,Guindy,Single,13807,6903,4.29,6.7,Study Area|Security|Meals|Gym|Laundry|WiFi,217
+P090,Stanza Residence 090,Gurgaon,DLF Phase 3,Triple,10494,15741,3.4,8.8,Housekeeping|AC|Gym|Security|Laundry|Meals|Study Area,162
+P091,Stanza Residence 091,Hyderabad,Gachibowli,Single,13813,13813,3.94,11.4,Laundry|Housekeeping|Gym|Security|Study Area|WiFi|AC,342
+P092,Stanza Residence 092,Gurgaon,Cyber City,Triple,11784,5892,3.85,15.5,WiFi|AC|Security|Study Area|Laundry|Meals|Gym,410
+P093,Stanza Residence 093,Gurgaon,Sohna Road,Single,21871,21871,3.69,5.6,WiFi|Housekeeping|AC|Gym,385
+P094,Stanza Residence 094,Bangalore,Whitefield,Double,13343,6671,4.4,3.5,Security|AC|Housekeeping|Gym,164
+P095,Stanza Residence 095,Hyderabad,Madhapur,Triple,7000,3500,3.91,12.0,Gym|WiFi|AC|Housekeeping|Meals|Security,133
+P096,Stanza Residence 096,Bangalore,Marathahalli,Double,18723,28084,3.4,9.4,Study Area|Security|Meals|WiFi|AC|Gym|Housekeeping,350
+P097,Stanza Residence 097,Bangalore,Indiranagar,Double,18646,9323,4.31,6.5,Housekeeping|Security|AC|Laundry|Meals,160
+P098,Stanza Residence 098,Gurgaon,Sohna Road,Double,21833,32749,3.73,4.3,Laundry|Housekeeping|Meals|Study Area|Security,408
+P099,Stanza Residence 099,Gurgaon,DLF Phase 3,Triple,10487,15730,3.84,11.8,Meals|Gym|AC|Study Area|Laundry|Housekeeping,157
+P100,Stanza Residence 100,Pune,Kharadi,Single,17109,25663,3.79,6.8,Study Area|AC|Laundry|Meals|WiFi|Security,243
+P101,Stanza Residence 101,Bangalore,Indiranagar,Single,14308,14308,4.11,4.1,Housekeeping|AC|Study Area|Gym|Meals|Security,277
+P102,Stanza Residence 102,Bangalore,Koramangala,Single,20281,10140,4.8,6.1,Meals|Security|WiFi|Housekeeping|Gym|Study Area|AC,307
+P103,Stanza Residence 103,Hyderabad,Kukatpally,Single,18204,18204,4.47,14.1,AC|Security|WiFi|Gym|Laundry|Study Area,405
+P104,Stanza Residence 104,Chennai,OMR,Double,8067,4033,4.28,13.3,Security|AC|Meals|Housekeeping|Study Area|Gym|Laundry,203
+P105,Stanza Residence 105,Bangalore,Marathahalli,Double,19224,28836,3.9,7.6,Study Area|Meals|Laundry|WiFi,362
+P106,Stanza Residence 106,Gurgaon,DLF Phase 3,Double,24521,12260,4.71,10.1,Laundry|Study Area|Housekeeping|AC|WiFi|Security|Gym,217
+P107,Stanza Residence 107,Gurgaon,Sector 52,Single,16981,25471,4.28,4.9,Security|Meals|Gym|Laundry|AC|Housekeeping,392
+P108,Stanza Residence 108,Bangalore,HSR Layout,Single,23811,23811,4.17,10.7,Meals|Study Area|Laundry|AC|Gym,282
+P109,Stanza Residence 109,Bangalore,Whitefield,Double,21546,21546,4.71,6.3,AC|Laundry|Gym|Study Area|Housekeeping|WiFi,223
+P110,Stanza Residence 110,Delhi NCR,Noida Sector 137,Single,11789,5894,3.92,12.6,Gym|WiFi|Study Area|Security|Laundry,361
+P111,Stanza Residence 111,Gurgaon,Sector 52,Double,12107,6053,4.11,6.2,AC|Housekeeping|Meals|Security,393
+P112,Stanza Residence 112,Hyderabad,HITEC City,Triple,7000,10276,3.81,17.4,WiFi|Security|Laundry|Meals|Study Area|AC,265
+P113,Stanza Residence 113,Bangalore,Koramangala,Double,18198,18198,4.3,5.7,WiFi|Housekeeping|Laundry|Study Area|AC,209
+P114,Stanza Residence 114,Pune,Hinjewadi,Double,15072,7536,4.43,17.7,Housekeeping|AC|WiFi|Laundry|Gym|Security|Study Area,256
+P115,Stanza Residence 115,Chennai,Guindy,Single,14890,7445,3.91,4.1,AC|Housekeeping|Laundry|Study Area|Security|WiFi,188
+P116,Stanza Residence 116,Bangalore,Marathahalli,Single,18121,9060,3.76,14.1,Security|Meals|Housekeeping|Laundry,159
+P117,Stanza Residence 117,Delhi NCR,Noida Sector 137,Single,18792,18792,4.33,12.7,AC|Meals|Gym|WiFi|Housekeeping|Study Area|Security,353
+P118,Stanza Residence 118,Pune,Viman Nagar,Double,7000,10243,3.8,2.7,Housekeeping|Security|WiFi|Meals|Study Area|Gym|AC,136
+P119,Stanza Residence 119,Gurgaon,DLF Phase 3,Single,16718,16718,4.8,15.9,Housekeeping|WiFi|AC|Meals|Gym,390
+P120,Stanza Residence 120,Gurgaon,Sohna Road,Triple,9819,9819,4.54,15.1,Security|Laundry|AC|Study Area|Housekeeping,177
+P121,Stanza Residence 121,Gurgaon,Cyber City,Double,21858,21858,3.65,2.3,Study Area|Gym|AC|Meals,231
+P122,Stanza Residence 122,Hyderabad,Kukatpally,Double,10154,15231,3.79,15.0,Meals|AC|Housekeeping|Security|Study Area,331
+P123,Stanza Residence 123,Gurgaon,Cyber City,Single,24193,24193,4.59,14.5,Study Area|Gym|AC|Laundry|Security|WiFi,395
+P124,Stanza Residence 124,Bangalore,Whitefield,Double,20110,30165,3.91,10.2,Gym|Laundry|AC|Study Area|WiFi|Housekeeping|Meals,167
+P125,Stanza Residence 125,Bangalore,Koramangala,Double,13109,6554,4.26,12.6,Security|AC|Laundry|Housekeeping|WiFi,228
+P126,Stanza Residence 126,Chennai,Guindy,Triple,7726,11589,3.66,6.8,Study Area|Gym|Meals|Laundry|Housekeeping|AC,304
+P127,Stanza Residence 127,Bangalore,Electronic City,Single,23836,23836,4.77,13.7,Meals|Security|Study Area|Housekeeping,333
+P128,Stanza Residence 128,Gurgaon,Golf Course Road,Single,18268,18268,4.3,17.4,Security|AC|Housekeeping|Laundry|Study Area|WiFi|Gym,214
+P129,Stanza Residence 129,Delhi NCR,Noida Sector 62,Double,8152,8152,4.42,2.6,WiFi|AC|Meals|Gym|Laundry,150
+P130,Stanza Residence 130,Pune,Baner,Double,14864,7432,4.48,1.8,Meals|WiFi|Security|Gym|AC|Study Area,169
+P131,Stanza Residence 131,Bangalore,Koramangala,Single,20625,20625,4.48,5.5,Meals|Housekeeping|WiFi|Study Area|Security,327
+P132,Stanza Residence 132,Bangalore,Whitefield,Double,19201,28801,4.0,14.4,WiFi|AC|Study Area|Meals,363
+P133,Stanza Residence 133,Gurgaon,Golf Course Road,Triple,21979,10989,4.55,13.9,AC|Laundry|Security|Meals|Housekeeping|Study Area|Gym,396
+P134,Stanza Residence 134,Bangalore,Whitefield,Double,21593,10796,3.99,15.3,Study Area|Security|Laundry|WiFi|Housekeeping|AC,371
+P135,Stanza Residence 135,Gurgaon,Sohna Road,Double,18975,18975,4.26,2.9,Study Area|Housekeeping|Security|AC|Gym,282
+P136,Stanza Residence 136,Bangalore,Koramangala,Single,19286,9643,3.57,8.6,AC|WiFi|Study Area|Laundry|Housekeeping|Meals|Security,317
+P137,Stanza Residence 137,Gurgaon,Sector 44,Single,27265,40897,3.96,6.5,Laundry|WiFi|AC|Gym|Security|Housekeeping|Meals,367
+P138,Stanza Residence 138,Hyderabad,Kondapur,Single,17123,8561,4.23,3.7,Study Area|Laundry|Meals|Gym,288
+P139,Stanza Residence 139,Bangalore,Indiranagar,Single,22666,33999,4.19,17.4,Meals|Housekeeping|Study Area|Gym|AC|Security,312
+P140,Stanza Residence 140,Gurgaon,Sector 52,Double,18612,27918,4.39,1.9,Gym|Security|Laundry|WiFi|Study Area|Housekeeping|AC,191
+P141,Stanza Residence 141,Pune,Wakad,Single,16432,16432,3.72,16.7,WiFi|Study Area|Laundry|Meals|Security|Gym|Housekeeping,301
+P142,Stanza Residence 142,Gurgaon,Cyber City,Double,22206,22206,3.89,5.2,Security|Laundry|Gym|Housekeeping|AC,296
+P143,Stanza Residence 143,Chennai,Velachery,Single,11321,11321,3.76,10.1,Security|WiFi|Gym|Housekeeping|Laundry|Study Area,273
+P144,Stanza Residence 144,Gurgaon,Sohna Road,Double,13013,6506,4.61,7.0,Security|AC|Gym|Study Area|Meals|Laundry|Housekeeping,322
+P145,Stanza Residence 145,Gurgaon,Sector 44,Double,14789,7394,4.0,14.6,Laundry|Security|Study Area|AC,354
+P146,Stanza Residence 146,Gurgaon,DLF Phase 3,Double,19768,29652,4.64,3.4,Security|Meals|AC|Laundry|WiFi|Study Area,188
+P147,Stanza Residence 147,Gurgaon,DLF Phase 3,Single,16416,24624,4.32,4.6,Laundry|Gym|Security|AC|Meals,281
+P148,Stanza Residence 148,Delhi NCR,Rajouri Garden,Double,9723,14584,4.36,12.3,Security|Gym|Housekeeping|Study Area|Meals|WiFi|Laundry,409
+P149,Stanza Residence 149,Gurgaon,DLF Phase 3,Double,17441,26161,4.07,10.6,AC|Laundry|Meals|Study Area,397
+P150,Stanza Residence 150,Delhi NCR,Noida Sector 137,Single,16965,16965,3.5,15.9,Security|Laundry|Study Area|WiFi,344
